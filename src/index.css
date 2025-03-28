@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800,500,700,400,300,600&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 30 33% 99%;
+    --foreground: 240 10% 3.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 5.9% 10%;
+
+    --radius: 1rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .hero-mask {
+    mask-image: url("data:image/svg+xml,%3Csvg width='200' height='200' viewBox='0 0 200 200' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M166.783 179.092C153.342 198.827 131.133 207.291 110.465 201.961C89.7978 196.631 73.1106 184.252 60.2784 167.934C47.4462 151.616 38.4921 132.441 33.1874 111.839C27.8828 91.2375 24.8893 69.2085 30.0893 48.8622C35.2894 28.516 51.0376 10.1989 70.8799 4.60761C90.7222 -0.983662 112.326 6.47856 125.768 23.1137C139.209 39.7489 148.163 65.5569 153.468 89.5462C158.773 113.536 163.095 135.698 159.876 153.899C156.657 172.101 180.224 159.358 166.783 179.092Z' fill='black'/%3E%3C/svg%3E");
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+  }
+  
+  .section-reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.8s ease-out;
+  }
+  
+  .section-reveal.is-revealed {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .blob {
+    border-radius: 42% 58% 70% 30% / 45% 45% 55% 55%;
+    transition: border-radius 500ms ease-in-out;
+  }
+  
+  .glass-card {
+    @apply bg-white/20 backdrop-blur-lg border border-white/30 rounded-3xl shadow-sm;
+  }
+
+  /* Custom scrollbar */
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+}
+
+@layer components {
+  .pill-button {
+    @apply inline-flex items-center justify-center rounded-full px-6 py-2 text-sm font-medium transition-all 
+    bg-foreground text-white hover:bg-opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary;
+  }
+
+  .container-section {
+    @apply max-w-6xl mx-auto px-4 sm:px-6 py-16 md:py-24;
+  }
+  
+  .section-title {
+    @apply font-display text-4xl md:text-5xl lg:text-6xl font-bold mb-8 md:mb-10;
+  }
+  
+  .section-subtitle {
+    @apply text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12;
+  }
+}
+
+@layer utilities {
+  .bg-background {
+    background-color: hsl(var(--background));
+  }
+  .bg-dark {
+      background-color: #1A1A1A;
+    }
+  .text-foreground {
+    color: hsl(var(--foreground));
+  }
+
+  .bg-foreground {
+    background-color: hsl(var(--foreground)); /* ✅ Add this */
+  }
+
+  .border-border {
+    border-color: hsl(var(--border));
+  }
+
+  .bg-card {
+    background-color: hsl(var(--card));
+  }
+
+  .text-muted-foreground {
+    color: hsl(var(--muted-foreground));
+  }
+
+  /* Add any more missing bg/text utilities here as needed */
+}
+
+  /* You can add more here if needed */
