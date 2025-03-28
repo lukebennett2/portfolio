@@ -30,7 +30,7 @@ export const projects = [
     title: 'BuildStuff',
     subtitle: 'Brand, Design, Event Organising, Marketing',
     description: 'A creative sprint night where participants build something in 2–3 hours, fostering innovation through time-constrained creativity.',
-    image: '/public/lovable-uploads/Buildstuff-New.png',
+    image: '/lovable-uploads/Buildstuff-New.png',
     color: '#22CAAA',
     icon: <Lightbulb className="w-5 h-5" />,
     slug: 'buildstuff'
@@ -40,7 +40,7 @@ export const projects = [
     title: 'Rally',
     subtitle: 'Product Design, Brand',
     description: 'A spontaneous meet-up app that brings people together through intelligent matching and seamless experience design.',
-    image: '/public/lovable-uploads/iphone-Mockup-rally.png',
+    image: '/lovable-uploads/iphone-Mockup-rally.png',
     color: '#F87171',
     icon: <Users className="w-5 h-5" />,
     slug: 'rally'
