@@ -37,7 +37,7 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" ref={sectionRef} className="py-0 bg-cream section-reveal">
+    <section id="contact" ref={sectionRef} className="py-24 bg-cream section-reveal">
       <div className="container-section">
         <SectionTitle title="Let's Connect" description="Have a project in mind? I'd love to hear from you. Let's discuss how we can work together." />
 
