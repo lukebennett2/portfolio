@@ -1,5 +1,8 @@
 import { useEffect, useRef } from 'react';
 import SectionTitle from './SectionTitle';
+import { ArrowRight } from 'lucide-react';
+import { Link } from 'react-router-dom';
+
 const About = () => {
   const sectionRef = useRef<HTMLElement>(null);
   useEffect(() => {
@@ -72,6 +75,16 @@ Right now, I’m exploring how to design tools, experiences, and communities tha
                   </div>
                 </div>
               </div>
+              <div className="mt-8">
+  <Link
+  to="/my-process"
+  className="inline-flex items-center bg-white text-black text-sm font-medium px-5 py-2.5 rounded-full transition duration-300 hover:bg-gray-100"
+>
+  My process
+  <ArrowRight className="ml-2 h-4 w-4" />
+</Link>
+</div>
+
             </div>
           </div>
           

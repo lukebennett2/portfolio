@@ -1,6 +1,6 @@
 ---
 title: "Running to the Edge of the Map"
-excerpt: "What a 450km ultra-relay across Poland taught me about collective effort, discomfort, and the strange intimacy of 3am roadside handovers."
+excerpt: "What a 450km ultra-relay across Poland taught me about endurance, trust, and the strange intimacy of 3am roadside handovers."
 date: "2025-02-02"
 image: "/lovable-uploads/border to hel.png"
 category: "Portfolio"
@@ -17,41 +17,41 @@ Welcome to **Border to Hel**—a 450km ultra-relay from the German-Polish border
 
 ## A Very Long, Very Stupid Idea
 
-Six runners. No van. No race signs. No one holding your hand. Just a small car, a lot of Google Maps tabs, and a group chat that slowly devolves into chaos. Each person runs 10 to 15km legs, trading off a shared GPS tracker like it’s the One Ring.
+Six runners. No van. No signage. No official anything. Just a small car, too many Google Maps tabs, and a group chat slowly dissolving into chaos. Each person took 10–15km legs, passing a shared GPS tracker like it was the One Ring.
 
-While one poor soul runs through some godforsaken back road, the rest of the team is in the car trying to nap, scavenge snacks, stretch, or argue over whether this next handoff spot is actually a road or just a typo.
+While one poor soul ran through god-knows-where, the rest of the team tried to nap, stretch, scavenge snacks, or argue over whether the next handoff spot was an actual road or a mapping hallucination.
 
-We slept in fields. Ate suspicious pierogi. Refilled bottles at petrol stations. Cheered each other on at checkpoints that ranged from charming playgrounds to vaguely haunted lay-bys.
+We slept in fields. Ate suspicious pierogi. Refilled bottles at petrol stations. Cheered each other on at checkpoints ranging from charming playgrounds to vaguely haunted lay-bys.
 
-It took us 35-ish hours. At a certain point, time lost all meaning. Everything became electrolytes and vibes.
-
----
-
-## Group Projects, But Make It Existential
-
-Weirdly, I thought a lot about teamwork—not the corporate kind with Gantt charts, but the kind where everyone’s operating on three hours of sleep and an expired oat bar. The kind where nobody knows what’s going on, but stuff still gets done.
-
-We dealt with cramping legs, disappearing GPS signals, and a few *mild* detours. But someone always stepped up—recalculating the route, whispering encouragement, googling “how to stretch calves without crying.” It wasn’t glamorous. It wasn’t always equal. But it was beautifully mutual.
-
-Like the best kind of working rhythm: low ego, high trust, and just enough shared delusion to carry you forward.
+It took us just over 35 hours. Eventually, time stopped making sense. Everything became electrolytes and vibes.
 
 ---
 
-## The Real Pain? Waiting Around
+## Group Projects, But Existential
 
-People assume the running is the hard part. It is. But not like you'd think.
+What struck me most wasn’t the running—it was the rhythm of the group. Not the tidy, corporate teamwork of Asana boards and retros. This was the kind where no one’s slept, someone’s limping, and someone else is whispering “I think my knee just made a clicking noise.”
 
-The real test? The *in-between*. The hours stuck in the car waiting for your next leg, trying not to fall apart. Putting on wet socks. Convincing yourself lukewarm trail mix counts as “fuel.” It’s like being in a never-ending holding pattern where your only job is to stay ready—and not emotionally unravel.
+No one had all the answers. But someone always stepped up—recalculating the route, whispering encouragement, googling “how to stretch calves without crying.” It wasn’t always equal. It wasn’t always smooth. But it was deeply mutual.
 
-Turns out, patience and preparation are just as brutal as sprinting down a dirt road at 3am.
+Low ego. High trust. Just enough shared delusion to keep moving forward.
 
 ---
 
-## The End of the Road (Literally)
+## The Hardest Part? Waiting
 
-We hit the tip of the Hel Peninsula just before sunset. The road narrowed, then vanished—just pine trees on one side, open water on the other.
+People assume the running is the hard bit. And it is—but not in the way you'd expect.
 
-We ran the final stretch together: slower, saltier, sunburned, slightly delirious. The finish line? A wooden shack selling chips and warm beer. It was everything and nothing. No fanfare. No medal. Just a loop closed, a journey done.
+The real test is the *in-between*. The hours in the car waiting for your next leg. Putting on damp socks. Convincing yourself that lukewarm trail mix counts as “nutrition.” It’s like being stuck in a holding pattern where your only job is to stay ready—and not emotionally unravel.
+
+Turns out, patience is its own kind of endurance sport.
+
+---
+
+## The End of the Road
+
+We hit the tip of the Hel Peninsula just before sunset. The road narrowed until it disappeared—just pine trees on one side, open water on the other.
+
+We ran the final stretch together: slower, saltier, sunburned, slightly delirious. The finish line? A wooden shack selling chips and warm beer. No fanfare. No medal. Just a loop closed, a journey done.
 
 And somehow, that made it perfect.
 
@@ -59,8 +59,8 @@ And somehow, that made it perfect.
 
 ## What Actually Mattered
 
-The blisters fade. The run stats get forgotten. But what sticks with me is the way the team moved together—steadily, selflessly, a little broken, but never stopping. We passed the baton over and over with quiet reliability.
+The blisters fade. The stats get forgotten. But what sticks is how we moved together—steadily, selflessly, a little broken, but never stopping.
 
-No heroics. No ego. Just six people who decided to keep going.
+We passed the baton over and over, quietly and reliably. No heroics. No ego. Just six people who decided to keep going.
 
-I still wear the race shirt. It’s ugly as hell. But it reminds me what happens when you say yes to something slightly unhinged, surround yourself with good people, and keep moving—blisters, pierogi, and all.
+I still wear the race shirt. It’s hideous. But it reminds me what happens when you say yes to something slightly unhinged, surround yourself with good people, and keep moving—blisters, pierogi, and all.

@@ -172,6 +172,7 @@ const CaseStudyPage = () => {
   const currentImages = projectImages[slug as keyof typeof projectImages];
   
   return <div className="bg-cream min-h-screen pt-24">
+    
       {/* Header */}
       <div className="relative overflow-hidden">
         <BlurBlob color={project.color} size={300} className="left-0 top-10 -ml-32 opacity-50" />

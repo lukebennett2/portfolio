@@ -9,6 +9,8 @@ import CaseStudy from "./pages/CaseStudy";
 import NotFound from "./pages/NotFound";
 import Blog from "./pages/Blog";
 import BlogPostPage from './pages/BlogPostPage';
+import MyProcess from './pages/MyProcess';
+
 
 
 
@@ -25,6 +27,8 @@ const App = () => (
           <Route path="/case-study/:slug" element={<CaseStudy />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/:slug" element={<BlogPostPage />} />
+          <Route path="/my-process" element={<MyProcess />} />
+          
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>

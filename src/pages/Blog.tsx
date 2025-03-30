@@ -9,6 +9,7 @@ import { Link } from 'react-router-dom';
 const Blog = () => {
   const [posts, setPosts] = useState([]);
   const [selectedPost, setSelectedPost] = useState(null);
+  const [selectedCategory, setSelectedCategory] = useState('All');
 
   useEffect(() => {
     const fetchPosts = async () => {
@@ -22,6 +23,13 @@ const Blog = () => {
     setSelectedPost(null);
     window.scrollTo(0, 0);
   };
+
+  const categories = ['All', ...Array.from(new Set(posts.map((post) => post.category)))];
+
+  const filteredPosts =
+    selectedCategory === 'All'
+      ? posts
+      : posts.filter((post) => post.category === selectedCategory);
 
   return (
     <div className="min-h-screen bg-cream">
@@ -61,15 +69,32 @@ const Blog = () => {
             </div>
           ) : (
             <>
-              <div className="max-w-2xl mx-auto text-center mb-16">
+              <div className="max-w-2xl mx-auto text-center mb-12">
                 <h1 className="text-4xl md:text-5xl font-display font-bold mb-6">Get to Know Me</h1>
                 <p className="text-lg text-dark/80">
                   A collection of thoughts, insights, and explorations about my approach to work, discovery, and curiosity. Updated semi-regularly.
                 </p>
               </div>
 
+              {/* Category Filter */}
+              <div className="flex flex-wrap justify-center gap-2 mb-12">
+                {categories.map((category) => (
+                  <button
+                    key={category}
+                    onClick={() => setSelectedCategory(category)}
+                    className={`px-4 py-1 rounded-full text-sm font-medium transition-all
+                      ${selectedCategory === category
+                        ? 'bg-black text-white'
+                        : 'bg-dark/10 text-dark hover:bg-dark/20'}`}
+                  >
+                    {category}
+                  </button>
+                ))}
+              </div>
+
+              {/* Filtered Blog Grid */}
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {posts.map((post) => (
+                {filteredPosts.map((post) => (
                   <div
                     key={post.slug}
                     className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 cursor-pointer"
