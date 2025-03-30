@@ -13,7 +13,7 @@ const projects = [
     tags: ["Event Design", "Logistics", "Community"],
     icon: <Footprints className="w-5 h-5" />,
     color: "#7C6EAD",
-    link: "/src/content/blog/crews-to-the-coast.md",
+    link: "./pages/blog",
   },
   {
     id: 4,

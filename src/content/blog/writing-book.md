@@ -3,7 +3,7 @@ title: "I Wrote a Children's Book About a Cat. His Name is Larry."
 excerpt: "A birthday present gone rogue: how a light-hearted tribute to my friend turned into a graphic odyssey starring a mildly anxious feline and his extremely chaotic life choices."
 date: "2025-03-20"
 image: "/lovable-uploads/Larry the cat.png"
-category: "Storytelling"
+category: "Other Projects"
 slug: "larry-the-cat"
 ---
 

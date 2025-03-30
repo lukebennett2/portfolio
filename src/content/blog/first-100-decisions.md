@@ -2,7 +2,7 @@
 title: "The First 100 Decisions in a New Product"
 excerpt: "Early-stage product work is a chaotic mix of intuition, trade-offs, and incomplete data. Here’s how I navigate those first 100 calls that shape everything downstream."
 date: "2025-03-30"
-image: "/lovable-uploads/Atom Learning 1.png"
+image: "/lovable-uploads/Day 100.png"
 category: "Product Thinking"
 slug: "first-100-decisions"
 ---

@@ -3,7 +3,7 @@ title: "Building This Website Nearly Broke Me (But I’d Do It Again)"
 excerpt: "A love-hate story about React, Tailwind, and how many times I Googled 'why isn’t this working'."
 date: "2025-1-10"
 image: "/lovable-uploads/Working late.png"
-category: "Portfolio"
+category: "Reflection"
 slug: "building-this-website"
 ---
 

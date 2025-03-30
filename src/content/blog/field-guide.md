@@ -1,9 +1,9 @@
 ---
 title: "How to Work With Me: A Field Guide"
 excerpt: "After five years of leading creative, product, and growth work across startups, here’s what I’ve learned about how I work—and how to work with me."
-date: "2025-03-30"
+date: "2025-01-10"
 image: "/lovable-uploads/Luke Headshot.png"
-category: "Portfolio"
+category: "Product Thinking"
 slug: "field-guide"
 ---
 

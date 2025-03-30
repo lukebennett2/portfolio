@@ -3,7 +3,7 @@ title: "Running to the Edge of the Map"
 excerpt: "What a 450km ultra-relay across Poland taught me about endurance, trust, and the strange intimacy of 3am roadside handovers."
 date: "2025-02-02"
 image: "/lovable-uploads/border to hel.png"
-category: "Portfolio"
+category: "Other Projects"
 slug: "border-to-hel"
 ---
 

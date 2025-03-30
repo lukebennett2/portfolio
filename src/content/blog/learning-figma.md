@@ -3,7 +3,7 @@ title: "How I Taught Myself Design"
 excerpt: "I didn’t go to design school. I opened Figma, got stuck, googled my way out, and kept going. Here’s how I learned to design interfaces, brands, and full products—on my own terms."
 date: "2025-01-13"
 image: "/lovable-uploads/Learning Design.png"
-category: "Creative Practice"
+category: "Creative Process"
 slug: "learning-figma"
 ---
 

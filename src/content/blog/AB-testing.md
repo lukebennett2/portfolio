@@ -3,7 +3,7 @@ title: "Three A/B Tests That Changed How We Grow"
 excerpt: "Small experiments, big lessons. How tiny product changes helped us increase conversions, boost engagement, and better understand our users at Atom Learning."
 date: "2025-02-02"
 image: "/lovable-uploads/AB Testing.png"
-category: "Portfolio"
+category: "Experimentation"
 slug: "ab-testing-growth"
 ---
 

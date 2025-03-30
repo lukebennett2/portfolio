@@ -56,9 +56,12 @@ const Navbar = () => {
             <Link to="/" onClick={e => handleNavLinkClick(e, 'case-studies')} className="text-dark/80 hover:text-dark transition-colors text-sm">
               Case Studies
             </Link>
-            <Link to="/" onClick={e => handleNavLinkClick(e, 'other-projects')} className="text-dark/80 hover:text-dark transition-colors text-sm">
-              Other Projects
-            </Link>
+            <Link
+            to="/my-process"
+            className="text-dark/80 hover:text-dark transition-colors text-sm">
+              My Process
+              </Link>
+
             <Link to="/blog" className="text-dark/80 hover:text-dark transition-colors text-sm flex items-center">
               <Book className="w-4 h-4 mr-1" />
               Blog

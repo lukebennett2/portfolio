@@ -3,86 +3,81 @@ title: "Directing Crews to the Coast"
 excerpt: "How a grassroots relay turned into one of the most creative running events in the UK—and what it taught me about building something bigger than a race."
 date: "2025-03-27"
 image: "/lovable-uploads/Crews to the Coast.png"
-category: "Events"
+category: "Other Projects"
 slug: "crews-to-the-coast"
 ---
 
-## We Didn’t Mean to Start a Movement (But Oops, We Did)
+## From a Simple Idea to a Moving Platform
 
-Crews to the Coast didn’t begin with a budget. Or a brand partner. Or even a functioning spreadsheet. It started with a question:
+Crews to the Coast began without a brand, a budget, or even a clean spreadsheet. It started with a question:
 
-**What if running events didn’t suck?**
+**What if running events felt less like races—and more like collective adventures?**
 
-What if they weren’t ultra-serious, looped-around-a-park snoozefests? What if they were weird, joyful, chaotic—in the best possible way? What if they *moved*?
-
----
-
-## 🛠️ 2022: The Scrappy Origin Story™
-
-In 2022, I mapped a rough 160km route from London to Margate, DM’d a few running crews, and asked:  
-“Wanna try something dumb?”
-
-No app. No platform. Just vibes and a few garbled voice notes. Puma got involved somehow (shout out to them for saying yes to madness). Eight teams signed up. The baton? A *golden traffic cone*. Checkpoints? Hand-drawn maps I sent at 11pm. Comms? A single chaotic WhatsApp group.
-
-People got lost. Some legs ended in towns no one meant to visit. But no one complained. Crews helped each other. Improvised. Made it up as they went. When everyone ran into the sea together at the end, it didn’t feel like a race. It felt like a collective hallucination we’d all decided to believe in.
+The goal was simple: create something different. Something built on energy, creativity, and community.
 
 ---
 
-## ⚙️ 2023: Now With Structure (and Adidas)
+## 2022: A Lo-Fi Beginning
 
-By 2023, things got real. Like, *spreadsheet real*. We partnered with Adidas. Over 120 runners. More than 20 teams. People actually trained.
+In 2022, I mapped a 160km route from London to Margate, messaged a handful of local running crews, and floated the idea.
 
-Scaling meant building behind-the-scenes infrastructure that looked suspiciously like project management. Suddenly there were:
-- Google Sheets that could pass as PhD theses
-- Checkpoint staff briefings
-- Shared folders, race passports, brand guidelines
-- Custom finish line stickers. (STICKERS.)
+No platform. No app. Just shared documents, voice notes, and a loosely connected WhatsApp group. Puma came on board (somehow), and eight teams signed up. The baton was a golden traffic cone. The checkpoints were marked by hand-drawn maps, and instructions were often sent the night before.
 
-I designed everything—from the typography on checkpoint signs to the briefing packs. On race day, I was texting captains, filming with content teams, rerouting volunteers, and answering SOS calls like a sweaty air traffic controller.
-
-It was chaos. But the good kind.
+Despite the chaos, or maybe because of it, the event worked. Crews supported one another. Teams adapted. When everyone ran into the sea together at the finish, it felt less like a finish line—and more like a shared story that everyone helped write.
 
 ---
 
-## 🎯 2024: Bigger Vision. More Moving Parts. Same Heart.
+## 2023: Scaling Up With Intention
 
-This year, we’re partnering with **Saucony**—a brand that gets both the culture *and* the chaos.
+In 2023, we partnered with Adidas. More than 120 runners across 20+ teams took part. The event began to take on structure.
 
-Yes, the race is bigger. But it’s also sharper, more intentional. I’m fully directing the creative and operational side, which includes:
-- Designing a 160km route across six boroughs and four counties (plus cows)
-- Building the brand system: merch, maps, team kits, signs
-- Writing every touchpoint—from onboarding decks to emergency toilet guides
-- Coordinating volunteers, film crews, photographers, snacks
-- Running the storytelling engine that shows the heart of the event
+That meant designing operational systems to support the scale:  
+- Shared folders, team kits, race passports, and briefing packs  
+- Google Sheets tracking every leg and checkpoint  
+- Visual identity across signage, merch, and social comms  
+- Volunteers, marshals, and content teams all working in sync  
 
-There are digital guides. Playlists. Posters. Planned rollouts. Every detail is weirdly personal and slightly overthought—just how we like it.
+On race day, I directed the operational side while managing the creative identity—briefing captains, coordinating media, and solving real-time issues behind the scenes.
 
-And this year? There’s *narrative.* Every team has a story. The race becomes a platform. A collective plotline in motion.
-
----
-
-## 🧠 The 90% You Don’t See
-
-People see a finish line and think, “Cool event.” But most of it? Invisible.
-
-There’s the community work: inviting crews, building trust, explaining that yes, you might get lost, and that’s fine. There’s the ops: staff briefs, backup routes, banana logistics. There’s the brand side: translating the messy magic into something that makes KPI sense.
-
-And there’s the emotional labour: keeping the soul of it alive while juggling logistics, ambition, and late-night chaos.
-
-But I love it. I love shaping things that feel human. I love turning spreadsheets into stories. I love watching people do something hard, joyful, and unforgettable.
+It was a lot. But the result was an experience that still felt grounded in community and creativity.
 
 ---
 
-## 🏁 Why It Matters
+## 2024: A Clearer Vision, A Stronger Foundation
 
-Crews to the Coast isn’t just another race.
+This year, we’re partnering with **Saucony**—a brand aligned with the cultural spirit and creative energy of the event.
 
-It’s proof that grassroots creativity *can* scale. That community-led events can be both beautifully designed *and* a little scrappy. That you don’t have to choose between soul and structure.
+The vision is bigger, but also more focused. I’m leading both the creative direction and operational planning, including:
+- Designing a 160km route through six boroughs and four counties  
+- Building a brand system from the ground up: signs, kits, maps, merch  
+- Writing every participant-facing touchpoint—from onboarding decks to emergency contact guides  
+- Coordinating volunteers, film crews, and logistics across the full route  
+- Developing the storylines that give the event its tone and emotional shape  
 
-It’s taught me a lot—about creative direction, logistics, leadership, and people. Because when you build something good and hand it to a community?
+The attention to detail is intentional. This year, every team has a narrative. The race becomes a storytelling platform—one that moves.
 
-They *run* with it.
+---
 
-Literally.This year’s edition is almost here. The teams are training. The route is ready. My to-do list is terrifying. But that finish line?
+## Behind the Scenes: What Doesn’t Get Noticed
 
-Always, always worth it.
+The majority of the work is invisible.
+
+There’s the early community-building: reaching out to crews, earning trust, welcoming new groups. There’s the operational backbone: setting up systems, route checks, and logistical backups. And then there’s the emotional work—keeping the tone right, making it feel inclusive, and ensuring the original spirit of the event isn’t lost as it grows.
+
+I care deeply about both the experience and the execution. Turning complexity into something seamless is where the real challenge lies—and where the most satisfying work happens.
+
+---
+
+## Why It Matters
+
+Crews to the Coast is more than a race.
+
+It’s a case study in how creative, grassroots experiences can scale—without losing what made them special. It’s shown me how thoughtful systems and strong storytelling can turn a single idea into something shared, evolving, and meaningful.
+
+It’s taught me a lot—about creative direction, operations, leadership, and people.
+
+And most importantly: when you build something that resonates, and you hand it to a community—they’ll carry it further than you imagined.
+
+Literally.
+
+The 2024 edition is nearly here. The teams are training. The route is ready. There’s still a lot to do. But I can already see the finish line—and it’s going to be worth every step.

@@ -3,7 +3,7 @@ title: "Learning Through the Lens"
 excerpt: "A look at how photography became one of my most consistent creative outlets, from editing tools to outdoor shoots and capturing moments with friends."
 date: "2025-03-02"
 image: "/lovable-uploads/Arias climbing.png"
-category: "Creative Practice"
+category: "Creative Process"
 slug: "photography"
 ---
 

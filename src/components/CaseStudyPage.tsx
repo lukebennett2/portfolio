@@ -34,7 +34,7 @@ const projectImages = {
   },
   'buildstuff': {
     image1: "/lovable-uploads/builstuff pink.png", // Buildstuff website welcome page
-    image2: "/lovable-uploads/Buildstuff image 2 New.png", // Buildstuff pink logo
+    image2: "/lovable-uploads/Buildstuff Painting.png", // Buildstuff pink logo
     image3: "/lovable-uploads/Buildstuff image 3.png"
     
   },
@@ -87,15 +87,15 @@ const CaseStudyPage = () => {
       skills: ["Brand Strategy", "Visual Identity", "Design System"],
       timeline: "6 months",
       scale: "Used by 150,000+ students",
-      challenge: "Atom Learning was a fast-growing edtech platform with a powerful adaptive learning engine—but its brand lagged behind. The visual identity felt generic, the messaging lacked emotional resonance, and it struggled to differentiate in a crowded market of test-prep solutions. Internally, there was also confusion: we were speaking to parents in our B2C offering, schools and teachers in B2B partnerships, and education administrators through a new testing product line. Each audience had distinct motivations, yet the brand treated them uniformly. We needed a system that could flex, inspire trust, and speak directly to each user group.",
+      challenge: "Atom Learning was a fast-growing edtech platform with a powerful adaptive learning engine, but its brand was lagging behind. The visual identity felt generic, the messaging lacked emotional resonance, and it was struggling to differentiate in a crowded market of test-prep solutions. Internally, there was also confusion: we were speaking to parents in our B2C offering, schools and teachers in B2B partnerships, and education administrators through a new testing product line we then called Atom Assessments. Each audience had distinct motivations, yet the brand treated them uniformly. We needed a system that could flex, inspire trust, and speak directly to each user group.",
       process: [
-      "I led the end-to-end rebrand, beginning with in-depth discovery. We conducted interviews with internal teams, customers, and stakeholders across all audience groups—parents, teachers, and school leaders—to understand their pain points, aspirations, and how they perceived Atom’s value.",
-      "We then ran a competitor audit, revealing a sea of cold, corporate branding in the edtech space. Our strategy became clear: Atom would stand out not by looking “techy,” but by building emotional connection and clarity. This insight led us to define the brand promise as 'The Building Blocks for Bright Futures' —a phrase that resonated across use cases and age groups while reinforcing Atom's educational mission.",
-      "We ran workshops with the founders and marketing team to co-develop core messaging pillars and tone of voice guidelines. From there, I led the design sprint that transformed this strategy into a full visual identity system—balancing childlike wonder with academic credibility. We introduced vibrant modular shapes (a nod to 'building blocks'), clean typographic hierarchy, and a color system tailored for each audience. I also designed a sub-brand identity for our testing solutions arm, giving it enough differentiation to signal its function, but still clearly part of the Atom family.",
+      "This was a big project, in which I led the entire end-to-end rebrand, beginning with in-depth discovery. We started by conducting interviews with internal teams, customers, and stakeholders across all audience groups—parents, teachers, and school leaders—to understand their pain points, aspirations, and how they perceived Atom’s value.",
+      "We then ran a competitor audit, revealing a sea of relatively cold, corporate branding in the edtech space (a clear opportunity for us as a competitor). Our strategy became clear: Atom would stand out not by looking “techy,” but by building emotional connection and clarity. This insight led us to define the brand promise as 'The Building Blocks for Bright Futures' — a phrase that resonated across use cases and age groups while reinforcing Atom's educational mission.",
+      "We ran workshops with the founders and marketing team to co-develop core messaging pillars and tone of voice guidelines. From there, I led the design sprint that transformed this strategy into a full visual identity system, balancing childlike wonder with academic credibility. We introduced vibrant modular shapes (a nod to 'building blocks'), clean typographic hierarchy, and a color system tailored for each audience. I also designed a sub-brand identity for our testing solutions arm, giving it enough differentiation to signal its function, but still clearly part of the Atom family.",
       "Throughout, we prototyped and tested designs across digital channels—from landing pages to parent dashboards to school sales decks—to ensure consistency and usability."
       ],
       tools: ["Brand Workshops", "Design Sprints", "User Testing", "Stakeholder & Customer Interviews", "Messaging Frameworks", "Competitor Audits",],
-      outcome: "The rebrand launched across Atom’s website, learning platform, B2B materials, and social channels. Within three months, parent signups increased by 40%, and brand recognition in key school networks significantly improved. The new brand system also enabled faster turnaround for marketing assets and more effective internal alignment—saving hours of design and copy back-and-forth. Most importantly, the brand finally reflected the quality and care of the product itself.",
+      outcome: "The rebrand launched across Atom’s website, learning platform, B2B materials, and social channels. Within th ree months, parent signups increased by 40%, and brand recognition in key school networks significantly improved. The new brand system also enabled faster turnaround for marketing assets and more effective internal alignment—saving hours of design and copy back-and-forth. Most importantly, the brand finally reflected the quality and care of the product itself.",
       reflection: "This project taught me that a rebrand is never just visual—it's strategic, systemic, and deeply tied to how a product is understood. The biggest challenge wasn't just designing a new identity, but building a brand that could flex across wildly different audiences without losing coherence. I learned how to navigate competing internal priorities, turn research into clarity, and design a system that scaled. Perhaps most importantly, I saw how design can shift perception: what once felt like a transactional test-prep tool began to feel like a trusted learning partner. That shift wasn’t about aesthetics—it was about building trust.",
     },
     
@@ -204,8 +204,8 @@ const CaseStudyPage = () => {
         <div className="aspect-[16/9] rounded-2xl overflow-hidden">
           <img src={project.image} alt={project.title} className="w-full h-full object-cover" />
         </div>
-        {currentProject.link && (
-  <div className="mt-6">
+        <div className="mt-6 flex flex-col sm:flex-row sm:items-center sm:gap-4">
+  {currentProject.link && (
     <a
       href={currentProject.link}
       target="_blank"
@@ -215,8 +215,12 @@ const CaseStudyPage = () => {
       Visit live site
       <ArrowRight className="ml-2 w-4 h-4" />
     </a>
-  </div>
-)}
+  )}
+  <span className="text-sm text-dark/60 mt-2 sm:mt-0">
+    Full case study available upon request
+  </span>
+</div>
+
       </div>
       
       {/* Project Details */}

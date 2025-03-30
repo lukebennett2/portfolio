@@ -9,27 +9,25 @@ slug: "interdisciplinary-work"
 
 ## Curiosity is a Productive Instinct
 
-I’ve always been drawn to the connective tissue between disciplines. I’m interested in how things work not just in isolation, but together—as part of a system. That curiosity has led me across design, strategy, product, content, and operations. Not out of indecision, but because I believe the most impactful work lives in the overlaps.
+I’ve always been drawn to the connective tissue between disciplines (in all honesty, ever since I was a kid making board games and card games with my brother). I’m interested in how things work not just in isolation, but together — as part of a system. That curiosity has led me across design, strategy, product, content, and operations. Not out of indecision, but because I believe the most impactful work lives in the overlaps. 
 
-This way of working isn’t about doing everything. It’s about understanding enough of each part to make better decisions. It’s about zooming out to see the full picture and then zooming in to move things forward.
+To be sure, this way of working isn’t about doing everything. It’s just about understanding enough of each part to make better decisions. It’s about zooming out to see the full picture and then zooming in to move things forward.
 
 ---
 
-## How I Think (Visualised)
+## How I Think
 
-At the heart of my approach is a curiosity loop that moves from exploration to execution.
-
-This model guides how I approach projects: I begin by seeking context, asking better questions, and understanding the broader environment. From there, I use systems thinking to identify dependencies and opportunities, frame problems strategically, and move into creative execution. The outcome is product decisions that are both aligned and intentional.
+At the heart of my approach is a curiosity loop that moves from exploration to execution.This model guides how I approach projects: I begin by seeking context, asking better questions, and understanding the broader environment. From there, I use systems thinking to identify dependencies and opportunities, frame problems strategically, and move into creative execution. The outcome is product decisions that are both aligned and intentional.
 
 ---
 
 ## From Systems to Strategy to Detail
 
-This mindset has shaped how I approach building digital products.
+This mindset has shaped (without a doubt) how I approach building digital products.
 
-At **Ogma**, I helped shape our AI writing assistant for speech and language therapists. I wasn’t just focused on growth—I worked closely with product and engineering to understand the friction points in onboarding, map out activation flows, rewrite prompts to improve output quality, and experiment with value delivery through UX. I also led experiments around user trust and clinical safety, which meant bridging design decisions with technical constraints and regulatory realities.
+At **Ogma**, I helped shape our AI writing assistant for speech and language therapists. I wasn’t just focused on growth (though that was obviously important),I also worked with design and engineering to understand the friction points in onboarding, map out activation flows, rewrite prompts to improve output quality, and experiment with value delivery through UX. I also led experiments around user trust and clinical safety, which meant bridging design decisions with technical constraints and regulatory realities.
 
-The same cross-functional approach defined my time at **Atom Learning**, where I helped evolve our parent-facing experience. I contributed to product strategy, copy, onboarding, and campaign execution—often all within the same project. When we launched a new parent dashboard, I helped test messaging variants, worked with the design team to surface key moments of value, and helped refine the user journey based on activation data. The goal wasn’t just to ship—it was to ship something that made sense across disciplines.
+The same cross-functional approach defined my time at **Atom Learning**, where I helped evolve our parent-facing experience. I contributed to product strategy, copy, onboarding, and campaign execution, often all within the same project. When we launched a new parent dashboard, I helped test messaging variants, worked with the design team to surface key moments of value, and helped refine the user journey based on activation data. The goal wasn’t just to ship, but was to ship something that made sense across disciplines.
 
 These projects taught me how to hold context. How to move between research, UX, technical scoping, and comms without losing momentum. And how to make decisions that weren’t just functional, but meaningful to the people using the thing we were building.
 
@@ -38,7 +36,7 @@ These projects taught me how to hold context. How to move between research, UX, 
 
 ## The Value of Working Across Disciplines
 
-There are tradeoffs to working this way. Context switching is real. It can be hard to explain what your role is when it spans multiple categories. But the benefit is a more integrated approach—where the left hand always knows what the right hand is doing.
+I'm sure it goes without saying, but there are certainly tradeoffs to working this way. Context switching is real, and it can be hard to explain what your role is when it spans multiple categories. But the benefit is a more integrated approach where the left hand always knows what the right hand is doing.
 
 This kind of interdisciplinary thinking is especially useful in product environments, where decisions are rarely cleanly divided. A product flow might depend on marketing context. A brand decision might influence how a feature is understood. A user insight might reshape the technical scope.
 

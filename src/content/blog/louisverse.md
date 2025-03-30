@@ -3,7 +3,7 @@ title: "Welcome to the Louisverse"
 excerpt: "A website I built for my boyfriend that taught me more about code, commerce, and love than I expected."
 date: "2025-02-15"
 image: "/lovable-uploads/louisverse.png"
-category: "Side Projects"
+category: "Other Projects"
 slug: "the-louisverse"
 ---
 
