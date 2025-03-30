@@ -4,12 +4,12 @@ import Footer from '@/components/Footer';
 import { Button } from '@/components/ui/button';
 import { ArrowLeft } from 'lucide-react';
 import { getBlogPosts } from '@/utils/getBlogPosts';
-import { Link } from 'react-router-dom';
 
 const Blog = () => {
   const [posts, setPosts] = useState([]);
   const [selectedPost, setSelectedPost] = useState(null);
   const [selectedCategory, setSelectedCategory] = useState('All');
+  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     const fetchPosts = async () => {
@@ -30,6 +30,12 @@ const Blog = () => {
     selectedCategory === 'All'
       ? posts
       : posts.filter((post) => post.category === selectedCategory);
+
+  const displayedPosts = filteredPosts.filter((post) =>
+    post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    post.excerpt.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    post.category.toLowerCase().includes(searchQuery.toLowerCase())
+  );
 
   return (
     <div className="min-h-screen bg-cream">
@@ -76,6 +82,17 @@ const Blog = () => {
                 </p>
               </div>
 
+              {/* Search Bar */}
+              <div className="max-w-lg mx-auto mb-8">
+                <input
+                  type="text"
+                  placeholder="Search blog posts..."
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  className="w-full px-4 py-3 border border-dark/10 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 bg-white/20 text-dark placeholder:text-dark/50"
+                />
+              </div>
+
               {/* Category Filter */}
               <div className="flex flex-wrap justify-center gap-2 mb-12">
                 {categories.map((category) => (
@@ -94,7 +111,7 @@ const Blog = () => {
 
               {/* Filtered Blog Grid */}
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {filteredPosts.map((post) => (
+                {displayedPosts.map((post) => (
                   <div
                     key={post.slug}
                     className="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 cursor-pointer"

@@ -35,6 +35,17 @@ const BlogPostPage = () => {
 </div>
       </div>
 
+      <div className="mt-20 pt-10 border-t border-dark/10">
+  <h2 className="text-xl font-display font-semibold mb-4 text-dark">Related Project</h2>
+  <a
+    href={`/projects/${post.slug}`}
+    className="inline-block text-indigo-600 hover:underline text-base font-medium"
+  >
+    View the project →
+  </a>
+</div>
+
+
       <Footer />
     </div>
   );

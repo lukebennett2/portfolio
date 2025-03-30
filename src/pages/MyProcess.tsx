@@ -29,7 +29,7 @@ const fullSteps = [
     description: "Every project starts with a question. I dig deep into the context — the users, the business goals, the competitors — to understand what’s really going on. Curiosity always drives the discovery process, and I try to uncover hidden insights and frame problems differently.",
     callout: {
       label: "See an example: Ogma Therapy",
-      description: "When building the Ogma Assistant, I ran 12+ user interviews and shadowed clinicians to deeply understand how note-taking interrupted their workflow. These insights shaped the tool’s initial feature set.",
+      description: "When building the Ogma Assistant, I ran 20+ user interviews and shadowed clinicians to deeply understand how note-taking interrupted their workflow. These insights shaped the tool’s initial feature set.",
       link: "/case-study/ogma-therapy"
     }
   },
@@ -39,7 +39,7 @@ const fullSteps = [
     image: "/lovable-uploads/luke_system.png",
     description: "Once we understand the why, we zoom out and look at the system. How do all the parts connect? I map out the landscape—flows, frictions, and opportunities—to align stakeholders and set the strategic foundation.",
     callout: {
-      label: "See and example: User Journey Flow",
+      label: "See an example: User Journey Flow",
       description: "In the Atom Learning rebrand, I visualised the brand experience across B2B and B2C audiences to resolve messaging clashes. This led to the modular brand system we launched.",
       link: "/case-study/atom-learning"
     }
@@ -51,8 +51,8 @@ const fullSteps = [
     description: "I'm a big believer that we can build to learn (and should). Sometimes it’s a rough wireframe, a live demo, or a not-quite-right headline, but I prototype to test assumptions, validate ideas, and get feedback early. That way, we don’t waste time on the wrong thing.",
     callout: {
       label: "See an example: Three A/B Tests That Changed How We Grow",
-      description: "At Atom Learning, I ran conversion experiments on our pricing page that surfaced unexpected behaviour patterns—and helped double trial-to-signup rates.",
-      link: "/blog/three-ab-tests"
+      description: "At Atom Learning, I ran conversion experiments on our pricing page that surfaced unexpected behaviour patterns—and helped increase trial-to-signup rates.",
+      link: "/blog"
     }
   },
   {
@@ -61,8 +61,8 @@ const fullSteps = [
     image: "/lovable-uploads/luke_planning_2.png",
     description: "As the saying goes, design isn’t just how it looks — it’s how it *feels*. I bring brand, tone, and narrative into the process to make sure we’re not just functional, but compelling. From microcopy to interaction moments, everything tells a story.",
     callout: {
-      label: "See an example: Stash Running Posters",
-      description: "I wrote race descriptions, checkpoint signs, and emails in the same tone as the visuals. The result? A brand that felt cohesive across every touchpoint.",
+      label: "See an example: Stash Running Comms",
+      description: "Our marketing and visuals remained consistent throughout our user touchpoints, leaning stronlgy on an irreverent TOV. The result? A brand that felt cohesive across every touchpoint.",
       link: "/case-study/stash-running"
     }
   },
@@ -84,8 +84,8 @@ const fullSteps = [
     description: "Once something’s out in the world, we look at what worked, and, of course, at what didn’t. I run retros, dig into the data, and talk to our users to surface learnings that drive my next iteration. The process never really ends, which is all part of the fun.",
     callout: {
       label: "See an example: What I’d Do Differently",
-      description: "After the first Crews to the Coast, I ran a full retrospective with captains and volunteers. Their input shaped the 2023 edition—and led to the idea of adding narrative arcs.",
-      link: "/case-study/crews-to-the-coast"
+      description: "After we launched our first B2B product at Ogma, I ran a full retrospective with team leads and heads of department. Their input shaped the next iteration and led to the idea of adding an in-app recording function.",
+      link: "/case-study/ogma-therapy"
     }
   }
 ];
@@ -96,7 +96,15 @@ const MyProcess = () => {
   const stepRefs = useRef<(HTMLDivElement | null)[]>([]);
 
   useEffect(() => {
+    // Force scroll to top just once after first render
+    requestAnimationFrame(() => {
+      window.scrollTo({ top: 0, behavior: 'instant' });
+    });
+  }, []);
+  
+  useEffect(() => {
     setIsLoaded(true);
+
     const handleScroll = () => {
       const scrollPos = window.scrollY;
       const offsets = stepRefs.current.map(ref => ref?.offsetTop || 0);

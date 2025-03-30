@@ -4,9 +4,9 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import About from '@/components/About';
 import CaseStudies from '@/components/CaseStudies';
-import OtherProjects from '@/components/OtherProjects';
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
+import BlogCallout from '@/components/BlogCallout';
 
 const Index = () => {
   useEffect(() => {
@@ -46,7 +46,7 @@ const Index = () => {
       <Hero />
       <About />
       <CaseStudies />
-      <OtherProjects />
+      <BlogCallout />
       <Contact />
       <Footer />
     </div>
