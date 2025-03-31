@@ -11,7 +11,7 @@ slug: "ab-testing-growth"
 
 If you're working on a growing product, it’s easy to fall into the habit of chasing big swings. A homepage redesign. A viral campaign. A pricing overhaul. But sometimes the most impactful shifts come from tiny tweaks — words, positions, buttons — backed by clear hypotheses and careful measurement.
 
-As Product Manager of Growth at Atom Learning, I was responsible for improving how parents and teachers discover, evaluate, and adopt our platform. That often meant diving into the messy middle: where user intent meets product friction. A/B testing was one of our most powerful tools.
+ During my tenure at Atom Learning, I was responsible for improving how parents and teachers discover, evaluate, and adopt our platform. That often meant diving into the messy middle: where user intent meets product friction. A/B testing was one of our most powerful tools.
 
 In this post, I’ll walk through three A/B tests we ran — what we tested, what we learned, and how it shaped our growth strategy.
 
