@@ -98,5 +98,4 @@ And because a field guide is better than another 1:1 about “how we like to wor
 > **Looking to hire?**  
 > I’m currently exploring new product roles at the intersection of creative, growth, and systems thinking.  
 > I bring product strategy, brand, and executional range—and I’d love to build with a sharp, kind team.  
-> [Get in touch →](/contact)
 
