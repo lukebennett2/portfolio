@@ -28,8 +28,6 @@ The real first decision isn’t the UI or the tech stack — it’s **alignment 
 - Why now?
 - What does success look like in 6 weeks, 6 months, 6 years?
 
-> _Inline Image: Screenshot of a problem definition doc I use in early builds_
-
 ---
 
 ## Decisions 2–10: Defining the MVP (Without Gaslighting Ourselves)
@@ -55,8 +53,6 @@ Here’s my usual sequencing:
 3. **Usability walkthroughs** (when flows start to settle)
 
 Tools I’ve used: Notion for notes, Maze for flows, Loom for feedback clips.
-
-> _Inline Image: Screenshot of a user interview snippet + tagged insight doc_
 
 ---
 
@@ -94,8 +90,6 @@ Tracking too early? Overkill. But I always start with:
 - Google Sheet logging if needed
 
 You only get clean data if you make early decisions about what you _want to know_.
-
-> _Inline Image: Screenshot of a simple dashboard tracking 3 MVP metrics_
 
 ---
 
