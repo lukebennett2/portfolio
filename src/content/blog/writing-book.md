@@ -1,85 +1,64 @@
 ---
-title: "I Wrote a Children's Book About a Cat. His Name is Larry."
-excerpt: "A birthday present gone rogue: how a light-hearted tribute to my friend turned into a graphic odyssey starring a mildly anxious feline and his extremely chaotic life choices."
+title: "I Wrote a Children's Book About a Cat. Her Name is Larry."
+excerpt: "A birthday present turned creative experiment: how a personal gift evolved into a fully illustrated narrative about a curious, mildly anxious feline named Larry."
 date: "2025-03-20"
 image: "/lovable-uploads/Larry the cat.png"
 category: "Other Projects"
 slug: "larry-the-cat"
 ---
 
-## 🎁 It Started With a Birthday
+## A Gift, Then an Idea
 
-I didn’t set out to write a children’s book. I set out to make my friend Larissa a birthday present. Something cute. Something unexpected. Something *better than another ceramic mug with a vaguely feminist quote* on it.
+This project began not as a book, but as a birthday present. I wanted to give my friend Larissa something thoughtful and handmade—something that felt more personal than another novelty mug. So I wrote and illustrated a short children’s story featuring a character loosely inspired by her: a cat named Larry.
 
-So I opened Figma.
+## Meet Larry
 
----
+Larry is a tabby cat with an overactive imagination and a tendency to find herself in increasingly surreal situations. She has no formal responsibilities, a collection of sweaters, and what could generously be described as an ambiguous relationship with a llama.
 
-## 🐱 Enter: Larry
+She’s a reluctant protagonist—curious, overwhelmed, and trying her best to make sense of the world.
 
-Larry is a cat.
+## A Light Narrative, Heavy on Atmosphere
 
-That’s basically it. But also—Larry is *all of us.*  
-An emotionally complex tabby with an appetite for adventure and just a dash of existential dread.
+The story opens with Larry on a boat.
 
-He has no job. He wears a sweater. He skis occasionally. He’s in what might be a situationship with a llama.
+There’s a kraken. Immediately.
 
-And he’s the reluctant hero of a loosely structured narrative that I now refer to as: *“Larry and the Inexplicable Kraken.”*
+What follows is a loosely structured journey through:
+- A haunted forest of self-reflection  
+- A group Zoom with animal acquaintances  
+- An inexplicable ski trip  
+- And a map-reading session that may or may not reveal the meaning of life
 
----
+It’s abstract, intentionally unresolved, and slightly absurd. But Larry keeps going—and that’s kind of the point.
 
-## 🐙 Plot? Sort Of.
+## Illustration Style and Process
 
-It begins with Larry on a boat.
+Every panel was illustrated in ProCreate using a custom visual style that mixes muted palettes, expressive characters, and surreal environments. I leaned into simplified forms and dreamlike compositions, balancing softness with a slightly off-kilter tone.
 
-There’s a kraken. Like, immediately. No buildup. No foreshadowing. Just full tentacle chaos from panel one.
+Think: a children’s book written during a creative fugue state—somewhere between Wes Anderson and early Tumblr-core.
 
-From there, Larry goes on a journey—one that spans:
-- A haunted forest of self-reflection™  
-- A group Zoom with his animal friends  
-- A ski trip for reasons unknown  
-- And, eventually, a tactical map-reading session that *might* be about finding the meaning of life (or just groceries)
+My goal was to make something that felt intimate, slightly odd, and emotionally rich—even if the narrative never quite lands anywhere traditional.
 
-Three hours later? Larry is changed. Or at least slightly less damp.
+## Creative Intent
 
----
+There’s no moral to this story. Larry doesn’t save the day or learn a lesson. She adapts, reflects, skis a bit, and makes it home.
 
-## ✏️ The Art Style: “Pinterest, But Weird”
+In some ways, that felt more honest than the traditional arc of a children’s book. Not everything needs to resolve. Not everything needs a meaning.
 
-I drew the whole thing myself, which was fun and also completely deranged.
+## Why I Made It
 
-Visually, it’s somewhere between *Wes Anderson for toddlers* and *Lisa Frank having a quarter-life crisis.*  
-Muted backgrounds, big feelings, questionable animal anatomy. You get it.
+Because Larissa is the kind of friend who deserves a fictional universe.
 
-I wanted it to feel dreamy, expressive, and just a little odd—like a children’s book written during a fever nap.
+Because making something handmade and strange felt more meaningful than sending a “HBD!” text.
 
----
+Because creating something with no brief and no expectations gave me space to play with tone, illustration, and narrative in a new way.
 
-## 🧃 The Vibe Was the Goal
+## What's Next for Larry?
 
-There’s no moral. No lesson. Just vibes.
+Hard to say.
 
-Larry doesn’t learn to be brave or defeat the kraken with friendship. He just… endures. Adapts. Skis a little.
+She might come back. She might open a record shop in Berlin. She might sleep for the foreseeable future.
 
-And honestly? That’s more relatable than most stories I read as a kid.
+For now, she lives in 12 illustrated panels—part gift, part creative exercise, part experiment in storytelling.
 
----
-
-## 💌 Why I Made It
-
-Because Larissa is the kind of friend who *deserves* a whole fictional universe.
-
-Because creating something physical and strange felt more meaningful than sending a “HBD!” text with confetti.
-
-Because sometimes the best gifts are the ones that make absolutely zero sense to anyone else—but still somehow say everything.
-
----
-
-## 🐾 What’s Next for Larry?
-
-Unclear.
-
-He might return. He might open a record shop in Berlin. He might just nap forever.
-
-But for now, he exists in 12 glorious panels, living his best chaotic life.  
 And that feels like enough.

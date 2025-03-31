@@ -1,87 +1,82 @@
 ---
 title: "Welcome to the Louisverse"
-excerpt: "A website I built for my boyfriend that taught me more about code, commerce, and love than I expected."
+excerpt: "A personal website project that evolved into a full digital experience—complete with merch, interactive features, and a surreal brand identity. Built from scratch as both a creative challenge and a gift."
 date: "2025-02-15"
 image: "/lovable-uploads/louisverse.png"
 category: "Other Projects"
 slug: "the-louisverse"
 ---
 
-## Some people write poems.  
-Some people cook elaborate meals.  
-**I built a website.**
+## A Different Kind of Gift
 
-What started as a joke between friends spiralled into a functioning, slightly unhinged digital ecosystem—**The Louisverse**. A dedicated home for all things Louis: real merch, fake lore, mini games, cursed copy, surreal visuals, and a front-end that probably raised a few eyebrows in React land.
+This began as a birthday present—a playful idea that quickly spiraled into a full digital build.
 
-It was a creative experiment. A technical playground. A love letter disguised as a website. It made no sense and perfect sense at the same time.
+I wanted to create something original for my partner, Louis. Not a card. Not a post. But a website: one that felt strange, personal, fully functional, and—somewhere beneath the surface—a genuine expression of affection.
 
----
+What emerged was **The Louisverse**: an immersive microsite complete with real merch, fake lore, mini games, surreal branding, and plenty of inside jokes.
 
-## 🧪 From Concept to Code (AKA “What if I actually built this?”)
+## From Concept to Code
 
-Like most of my side projects, this one began with zero plan, a rogue Figma file, and way too much coffee on a rainy Saturday.
+The project started like many of my side builds: an open Figma file, a vague concept, and a free weekend.
 
-The premise was simple(ish): make a site for Louis that was **playful**, **personal**, and **real**. Not a portfolio. Not a “hey look what I made” kind of thing. A *universe*. Something he could explore, share, and maybe get a laugh out of—and ideally, something that worked well enough to make people go: “Wait... you *built* this?”
+The idea was simple—create a world that was:
+- **Fully digital**
+- **Technically real**
+- **Creatively absurd**
 
-### The result?
+Not a portfolio. Not a “look what I made.” More like a strange corner of the internet where Louis was the protagonist of his own mildly chaotic brand.
 
-- A **React-based website** built from scratch, styled with Tailwind (because obviously)
-- A connected **Shopify store** with actual, purchasable products
-- **Interactive mini games** (yes, really) and secret easter eggs
-- A **merch design system** complete with original prints, taglines, and packaging
-- Markdown-based content so I could update it without crying into a CMS dashboard
+### The final build included:
+- A **React-based website** built from scratch, styled with **Tailwind CSS**
+- A connected **Shopify Lite store** with actual products
+- **Interactive elements and mini games**
+- A markdown-based CMS system for easy content updates
+- A self-contained **design system** for digital and physical merch
 
-And honestly? It kind of slapped.
+## Visual Identity and Brand System
 
----
+To make it feel cohesive, I designed a brand identity for the Louisverse that merged retro aesthetics with internet culture oddities. The result was a playful, satirical visual tone with intentional polish.
 
-## 🎨 Designing the Louisverse Brand
+Key features included:
+- All-caps, bold **typography**
+- Distorted gradients and glitched assets
+- A color palette that leaned into artificiality
+- Custom microcopy and UI states (“Louis disapproves” as an error message, for example)
 
-I didn’t want this to feel like just a pile of random internet stuff. I wanted **lore**. A world. A weird, offbeat visual identity that made people wonder whether it was satire, art, or a startup pitch gone off the rails.
+Each touchpoint was treated with care—from the homepage layout to the packaging mockups for products.
 
-So I built a visual system that walked the line between retro sci-fi aesthetics and private group chat energy:
-- **Bold typography** that shouted in all caps
-- **Strange gradients** that made you squint a little
-- **Distorted assets** that felt slightly broken in a good way
-- **Microcopy** that leaned fully into the bit (think error messages that say “Louis disapproves”)
+## Technical Overview
 
-Every page had a sense of mischief baked in. Like it was daring you to click one more link just to see what nonsense came next.
+This project became an opportunity to stretch my frontend and systems thinking skills. I worked across design, development, e-commerce, and content workflows, ensuring a seamless experience that looked unconventional but performed smoothly.
 
----
+**Stack:**
+- **React + Vite** for a snappy build process
+- **Tailwind CSS** for custom styling
+- **Shopify Lite** for e-commerce
+- **Framer Motion** for animation and interactivity
+- **Markdown** for content flexibility and ease of editing
 
-## 🧩 Making It Work (Technically and Emotionally)
+Every line of code, component, and route was created from scratch—balanced between performance and personality.
 
-Pulling this thing together meant learning a lot on the fly—wiring up e-commerce, figuring out animations, styling components so they didn’t look like a design intern’s first day, making sure everything *felt* cohesive even when it technically wasn’t.
+## Why I Built It
 
-The technical stack looked something like this:
-- **React + Vite** for speed and flexibility
-- **Tailwind CSS** because it lets me move fast and break spacing
-- **Shopify Lite** for merch integration
-- **Framer Motion** for smooth, weird animations
-- **Markdown** for content, so I could iterate faster than Louis could say “you made *what*?”
+Aside from the personal motivation, this project became a creative case study in designing something that was:
+- Emotionally resonant  
+- Technically functional  
+- Deeply unserious—but with serious attention to detail
 
-And behind it all, a quiet obsession with making every single detail feel intentional, stupid, and delightful at the same time.
+It reminded me of why I love working across disciplines—bringing product, brand, and code together to build experiences that don’t just look good, but feel meaningful (even if the meaning is wrapped in chaos).
 
----
+## What I Learned
 
-## 💡 What I Learned
+- How to architect a small but scalable React site with dynamic content
+- The nuance of designing for both humor and clarity
+- The power of specificity in copy, visuals, and technical detail
+- That side projects, especially the strange ones, can be a training ground for real creative and product work
 
-Building the Louisverse reminded me why I love making weird little things on the internet.
+## Where the Louisverse Lives Now
 
-It’s easy to get caught up in polished portfolios and “serious” side projects. But sometimes the best stuff comes from chasing an idea that’s just *fun*. One that doesn’t make perfect sense but *feels* right. One that stretches your creative muscles while making someone laugh—or at least go “what the hell is this and why do I love it?”
+It’s live, fully operational, and quietly growing. The merch is real. The microinteractions work. And Louis, thankfully, approved.
 
-I got to:
-- Push my design and development chops at the same time  
-- Invent a fake brand with real emotional weight  
-- Make something deeply personal that somehow resonated with other people too
-
----
-
-## 🚀 The Louisverse Lives On
-
-The site is live. The merch is real. The mini games kind of work. And Louis? He loved it. (Or he’s too polite to say otherwise.)
-
-Either way, this project reminded me that the best design often lives in the strange, chaotic middle ground—between joke and art, between structure and chaos, between “why?” and “why not?”
-
-Long live the Louisverse.  
-Long live designing just because you can.
+More than anything, this build was a reminder:  
+Sometimes the most meaningful work doesn’t come from briefs or frameworks, but from curiosity, generosity, and a willingness to build something simply because you can.
